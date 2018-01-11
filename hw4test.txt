@@ -1,0 +1,12 @@
+#include "std_lib_facilities_4.h"
+
+double a;
+double b;
+double c;
+
+int main(){
+	int i;
+	cin >> i;
+	double quadratic = 3*i;
+	cout << quadratic;
+}

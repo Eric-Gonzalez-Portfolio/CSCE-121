@@ -1,0 +1,10 @@
+#include "std_lib_facilities_4.h"
+int main()
+{
+	cout << "        " << "F";
+	cout << "        " << "R";
+	cout << " " << "B" << "     " << "MARVIN";
+	cout << " " << "A" << "  " << "K" << "N";
+	cout << "FREDERICK" << "    " << "D";
+	cout << " " << "B" << "  " << "N" << "  " << "E" << "     " << "D";
+}
